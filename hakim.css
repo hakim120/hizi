@@ -4,7 +4,7 @@ body {
  }
  img{
    position: absolute;
-   top:50px;
+   top:110px;
    right:100px;
  }
  h1 {
@@ -29,4 +29,11 @@ h4{
 }
 img {
   border-radius: 50%;
+}
+ .presentation{
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
 }
