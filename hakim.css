@@ -1,0 +1,32 @@
+body {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+ }
+ img{
+   position: absolute;
+   top:50px;
+   right:100px;
+ }
+ h1 {
+  font-weight: black;
+  color:black;
+  font-size: 32px;
+}
+h2 {
+  font-weight: bold;
+  color: #fff;
+  font-size: 24px;
+}
+h3{
+  font-weight: black;
+  color:black;
+  font-size: 24px;
+}
+h4{
+  font-weight: black;
+  color:black;
+  font-size: 24px;
+}
+img {
+  border-radius: 50%;
+}
